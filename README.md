@@ -11,7 +11,7 @@
 ---
 
 ### `[root@kali]--> ConnectWithMe`
-   - [![Discord Server](https://img.shields.io/discord/819085006978023475.svg?label=%20&labelColor=555656&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/5FtvrR3ryG)
+   - [![Discord Server](https://img.shields.io/discord/819085006978023475.svg?label=%20&labelColor=555656&logo=Discord&colorB=7289da&style=for-the-badge)](https://dsc.gg/kidswhocode)
    - [![Gitlab](https://img.shields.io/badge/-GITLAB%20PROFILE-blue.svg?logoColor=999999&style=for-the-badge&labelColor=632607&logo=gitlab&color=de4a00)](https://www.gitlab.com/v1s1t0r999)
    - [![Kaggle](https://img.shields.io/badge/-KAGGLE%20PROFILE-blue.svg?logoColor=999999&style=for-the-badge&labelColor=245F62&logo=kaggle&color=134e91)](https://kaggle.com/adityacharan)
 - ![made-with-python](https://img.shields.io/badge/More%20Shields-Later-blue.svg?logoColor=2e2c2c&style=for-the-badge&labelColor=111111&color=000000)
@@ -37,4 +37,4 @@
  
 ---
 
-[![shield](https://discord.com/api/guilds/819085006978023475/embed.png?style=banner4)](https://discord.com/invite/HDekbApT4P) 
+[![shield](https://discord.com/api/guilds/819085006978023475/embed.png?style=banner4)](https://dsc.gg/kidswhocode) 
