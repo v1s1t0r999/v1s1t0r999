@@ -1,4 +1,4 @@
-## ⚡**Aditya Charan aka v1s1t0r999**⚡
+## ⚡**v1s1t0r999**⚡
 ## _Hi there Fellas' 👋_
 
 
