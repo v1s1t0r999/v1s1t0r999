@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    color: gray;
+    line-height: 1.4;
+}
+
+a {
+    color: yellow;
+    font-style: italic;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: red;
+    font-family: monospace;
+    font-style: italic;
+}
+
+p {
+    font-family: monospace;
+}
+
