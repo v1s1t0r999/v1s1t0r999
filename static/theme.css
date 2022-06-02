@@ -72,6 +72,7 @@ input[type=text] {
   
   p {
       font-family: monospace;
+      font-size: 20px;
   }
   
   figcaption {
@@ -107,8 +108,8 @@ input[type=text] {
   }
   
   code {
-      background-color: gray;
-      color: black;
+      background-color: rgb(43, 43, 43);
+      color: rgb(255, 255, 255);
       letter-spacing: 2px;
       display: inline-block;
       text-align: left;

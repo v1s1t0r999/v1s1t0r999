@@ -19,18 +19,21 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    text-decoration: solid;
   }
   
   /* Change the color of links on hover */
   .topnav a:hover {
     background-color: #949494;
     color: #7c2d38;
+    text-decoration: wavy;
   }
   
   /* Add a color to the active/current link */
   .topnav a.active {
     background-color: #030165;
     color: white;
+    text-decoration: wavy;
   }
   
   #navbar {
@@ -41,7 +44,7 @@
       width: 100%;
       overflow: hidden;
       background-color: #5c5c5c;
-         transform: translateY(0);
+      transform: translateY(0);
       
   }
   
