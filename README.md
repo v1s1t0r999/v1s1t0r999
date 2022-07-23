@@ -1,7 +1,8 @@
-### HAHAHA...Go kys...[here](http://me.gotto.tk)
-### Best [Song](https://cdn.gotto.tk/files/cpr-akuna-nimhune.weba)... ([video](https://www.youtube.com/watch?v=oXHnp9-SdjA))
-### Best [Language](https://python.org)
+
+ [<img src="https://cdn.discordapp.com/emojis/898443897905233930.gif?size=32">](https://cdn.gotto.tk/files/cpr-akuna-nimhune.weba)  **|**  [<img src="https://cdn.discordapp.com/emojis/845359971784851516.webp?size=32">](https://python.org) **|** [<img src="https://cdn.discordapp.com/emojis/882825087311560724.gif?size=32">](https://me.gotto.tk)
+
 ```
-ACCEPT IT. CHANGE IT. OR LEAVE IT.
+GRIND AND GRIND
 ```
-<img style="display: block;margin-left: auto;margin-right: auto;width: 50%;height:50%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3XUXcV2exNKKEyut3CftZoBxzmZ71HujlA&usqp=CAU" alt="GRIND FOR IT">
+---
+
