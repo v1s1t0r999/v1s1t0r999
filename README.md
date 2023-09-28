@@ -7,5 +7,5 @@ GRIND & GRIND AND GRIND & GRIND
 ```
 ---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quoteCategory=programming">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quoteCategory=programming" width=100% style='width:100%'>
 
