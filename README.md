@@ -7,5 +7,5 @@ GRIND & GRIND AND GRIND & GRIND
 ```
 ---
 
-[<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quoteCategory=programming">](http://a/%%30%30)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quoteCategory=programming">
 
