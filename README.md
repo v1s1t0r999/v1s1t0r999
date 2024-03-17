@@ -6,5 +6,5 @@ GRIND & GRIND AND GRIND & GRIND
 ```
 ---
 
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quoteCategory=programming"></p>
+<p align="center"><img src="https://readme-jokes.vercel.app/api?theme=gotham"></p>
 
